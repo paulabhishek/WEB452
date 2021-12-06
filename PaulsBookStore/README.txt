@@ -209,6 +209,21 @@ Ran the app and tested.
 
 End time: 2 PM
 
+Dec 5th 10 am
+hours spent: 7 hours
+started fixing issues.
+Category, CoverType, Product Edit wasn't working.
+reviewd the slides and re-wrote Category.cs CoverType.cs and Product.cs
+built and ran the app edit works 12 PM.
+
+2 PM.
+Used the github repo provided to check code against it for error.
+no errors so far.
+Products as demonstrated in class failed to ouput.
+started debug but was not able to figure out the issue.
+
+end time 5 PM
+
 
 
 
